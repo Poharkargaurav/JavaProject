@@ -1,2 +1,3 @@
 # JavaProject
-for Practice purposed 
+Core Java ,Spring boot , OOPS 
+
